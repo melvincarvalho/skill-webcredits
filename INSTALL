@@ -4,7 +4,7 @@ sudo apt install nodejs npm
 # INSTALL
 npm install skill-webcredits
 mkdir webcredits
-echo '{}' > webcredits/webcredits.json
+echo '[{}]' > webcredits/webcredits.json
 
 # CONFIG
 
