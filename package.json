@@ -1,6 +1,6 @@
 {
   "name": "skill-webcredits",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "webcredits skill",
   "main": "index.js",
   "scripts": {

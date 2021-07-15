@@ -9,4 +9,4 @@ echo '{}' > webcredits/webcredits.json
 # CONFIG
 
 # NOTES
-# add credits with node_modules/skill-webcredits/bin/credits.js <amount>
+# add credits with node_modules/skill-webcredits/bin/credit.js <amount>
