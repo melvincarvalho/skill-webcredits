@@ -1,0 +1,12 @@
+# PREREQUISITES
+sudo apt install nodejs npm
+
+# INSTALL
+npm install skill-webcredits
+mkdir webcredits
+echo '{}' > webcredits/webcredits.json
+
+# CONFIG
+
+# NOTES
+# add credits with node_modules/skill-webcredits/bin/credits.js <amount>
